@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:karptonite/subrepotest2.git
 	branch = main
-	commit = f9de721bbd3a1ef65cdc9fa982f6b6b18983b8e4
-	parent = e5ab23000e2a0976225a926659e7c41d0ec3d23c
+	commit = 32c483cc72f0db8cac07387a464c77918375902c
+	parent = 85385d75b0466e6071354a121503a6c9359b79f8
 	method = merge
 	cmdver = 0.4.3
