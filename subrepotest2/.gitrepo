@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:karptonite/subrepotest2.git
+	branch = main
+	commit = 4cf0341350caa1608014feae5ff63cc653f862a8
+	parent = fd7f46ad9e7a8caaf18f0ea8af9b4040c0422b4f
+	method = merge
+	cmdver = 0.4.3
